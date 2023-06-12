@@ -1,0 +1,15 @@
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\bin\Debug\net6.0\questionarioOOP.exe
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\bin\Debug\net6.0\questionarioOOP.deps.json
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\bin\Debug\net6.0\questionarioOOP.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\bin\Debug\net6.0\questionarioOOP.dll
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\bin\Debug\net6.0\questionarioOOP.pdb
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.dll
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\refint\questionarioOOP.dll
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.pdb
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\questionarioOOP.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\study\OOP\quetionary\questionarioOOP\obj\Debug\net6.0\ref\questionarioOOP.dll
